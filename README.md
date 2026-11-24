@@ -1,25 +1,7 @@
-peru-id-validator 🇵🇪
+# peru-id-validator 🇵🇪
 Valida DNI, RUC y Carnet de Extranjería en Perú, sin dependencias.
 
-Uso
+## Uso
 from peru_id import validar_ruc, validar_dni
 validar_ruc("20123456786") # True
 validar_dni("12345678") # True
-
-Por qué existe?
-No había una librería simple y mantenida para validar documentos peruanos en formularios y sistemas de facturación.
-
-<!--
-**elvisclark19-bot/elvisclark19-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
